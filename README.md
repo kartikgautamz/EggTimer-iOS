@@ -1,4 +1,5 @@
-Screenshot 2024-09-10 at 1.35.18 PM
+<img width="351" alt="Screenshot 2024-09-10 at 1 35 18 PM" src="https://github.com/user-attachments/assets/0fe880d6-9afb-422a-8745-411081f87b40">
+
 # Egg Timer
 
 ## Our Goal
